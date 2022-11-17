@@ -29,6 +29,7 @@
  ![alt text](https://github.com/linusfoo/COVID-19-comments-analysis/blob/main/emotion_breakdown_by_cities.png)
 
 ## Example of Emotions (video transcript and comments) of Calgary throughout the year
+1: Neutral , 2: Happy , 3: Sad , 4: Hate, 5: Anger
 ![alt text](https://github.com/linusfoo/COVID-19-comments-analysis/blob/main/transcript%20vs%20comments.png)
   
   
