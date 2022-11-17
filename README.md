@@ -21,6 +21,8 @@ Calgary:
   
  # Result Summary
  
+ ![alt text](https://github.com/linusfoo/COVID-19-comments-analysis/blob/main/emotion_breakdown_by_cities.png)
+ 
  
   
   
