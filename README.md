@@ -1,11 +1,11 @@
 # Data Crawled:
 
 Vancouver:
-	Comments: 183,232
-	Video: 1,424
+	Comments: 183,232 \
+	Video: 1,424 \
 
 Montreal:
-	Comments: 290,730
+	Comments: 290,730 \
 	Video (comment): 1,285
 	Video (transcript) : 5239
 	Video (with both comment and transcript) : 773
