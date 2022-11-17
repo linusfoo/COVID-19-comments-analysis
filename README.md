@@ -21,6 +21,9 @@ Calgary:
   
  # Result Summary
  
+ ## Emotion prediction examples
+ ![alt text](https://github.com/linusfoo/COVID-19-comments-analysis/blob/main/emotion%20pred.png)
+ 
  ## Emotions of comments relating to covid by city
  
  ![alt text](https://github.com/linusfoo/COVID-19-comments-analysis/blob/main/emotion_breakdown_by_cities.png)
