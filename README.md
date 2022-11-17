@@ -1,20 +1,20 @@
 # Data Crawled:
 
-Vancouver:<br />
+## Vancouver:<br />
 	Comments: 183,232 <br />
 	Video: 1,424 <br />
 
-Montreal: <br />
+## Montreal: <br />
 	Comments: 290,730 <br />
 	Video (comment): 1,285 <br />
 	Video (transcript) : 5239 <br />
 	Video (with both comment and transcript) : 773 <br />
 
-toronto: <br />
+## toronto: <br />
 	Comments: 281,859 <br />
 	Video: 1,781 <br />
 
-Calgary: <br />
+## Calgary: <br />
 	Comments:  391,792 <br />
 	Video: 1067 <br />
   
