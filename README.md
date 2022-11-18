@@ -1,3 +1,5 @@
+Due to the private nature of the project, code is not available but the results are as follows
+
 # Data Crawled:
 
 ## Vancouver:<br />
